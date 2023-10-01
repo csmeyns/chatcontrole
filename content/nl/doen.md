@@ -7,19 +7,16 @@ draft: false
 images: []
 ---
 
-## 1 oktober 2023: Demonstratie tegen chatcontrole
+## Wat kan je doen? 
 
-- **Wat?** Een demonstratie tegen het chatcontrole-voorstel van de EU.
-- **Waar?** De Dam in Amsterdam ([op kaart](https://www.openstreetmap.org/?mlat=52.37309&mlon=4.89246#map=18/52.37310/4.89245))
-- **Wanneer?** zondag 1 oktober 2023, 13.00--16.00 uur.
-- **Voor wie?** Iedereen die de vrijheid van versleutelde communicatie een warm hart toedraagt.
+### 📢 1. Informeer
 
-Komt allen!
+Informeer zoveel mogelijk mensen. Deel de link naar deze pagina! Email [je Europarlementariër](https://www.europarl.europa.eu/meps/nl/full-list/all). Start een publiek gesprek over het gevaar van chatcontrole. Zorg dat politici weten dat de wet een enorm slecht idee is.
 
-Georganiseerd door [de Piratenpartij](https://piratenpartij.nl/demonstratie-chatcontrole-kom-zondag-1-oktober-naar-de-dam/).
+### ✍️ 2. Teken de petitie
 
-![Flyer voor een demonstratie tegen chatcontrole op 1 oktber 2023, 13.00 uur op de Dam te Amsterdam](/images/chatcontroledemo.jpeg)
+Teken [de petitie](https://civicrm.edri.org/stop-scanning-me) tegen het chatcontrole wetsvoorstel van de Europese Commissie (formulier in het Engels 🇬🇧). Hoe meer mensen tekenen, hoe sterker het signaal dat deze wet niet gewenst is.
 
-## Wat kunt u nog meer doen?
+### 🤝 3. Help mee
 
-Lees hier meer tips over [wat je zelf kunt doen](https://chatcontrole.nl/#wat-kan-je-doen).
+Heb je goede ideeën of wil je helpen? Heel graag! 🤗 Stuur een mailtje op `{{< email user="chatcontrole" domain="proton.me" >}}` en we nemen contact op.

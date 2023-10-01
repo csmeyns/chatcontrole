@@ -3,7 +3,7 @@ title: "Demonstratie tegen chatcontrole 1 oktober, Dam, Amsterdam"
 description: "..."
 date: 2023-09-16T08:49:31+00:00
 lastmod: 2023-07-05T08:49:31+00:00
-draft: false
+draft: true
 images: []
 contributors: []
 categories: []
