@@ -1,5 +1,5 @@
 ---
-title: "Nieuw artikel: Wie heeft er baat bij?"
+title: "Wie heeft er baat bij? Chatcontrole lobby-netwerk in kaart gebracht"
 description: "..."
 date: 2023-09-25T08:49:31+00:00
 lastmod: 2023-09-25T08:49:31+00:00
