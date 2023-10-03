@@ -1,5 +1,5 @@
 ---
-title: "Lobby-bedrijf Thorn beantwoordt brief over chatcontrole gericht aan Eurocommisaris Johannson"
+title: "Lobby-bedrijf Thorn beantwoordt brief over chatcontrole gericht aan Eurocommisaris Johansson"
 description: "..."
 date: 2023-10-02T08:49:31+00:00
 lastmod: 2023-10-02T08:49:31+00:00
