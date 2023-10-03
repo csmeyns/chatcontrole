@@ -72,65 +72,8 @@ Internetaanbieders kunnen worden verplicht om de toegang tot verboden en niet-ve
 <figcaption><i>Video met uitleg over chatcontrole, door de Europese Piratenpartij (in het Engels). Meer video's over chatcontrole zijn beschikbaar in <a href="https://peertube.european-pirates.eu/videos/watch/playlist/2a8dc2ce-2dec-4250-bb0e-a6a7340f0f4c">deze afspeellijst</a>.</i></figcaption>
 
 ### De onderhandelingen: een tijdlijn
-#### 2020: De Europese Commissie stelt 'tijdelijke' wetgeving voor die chatcontrole mogelijk maakt
 
-De [voorgestelde 'tijdelijke' wetgeving](https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2020/0568/COM_COM(2020)0568_EN.pdf) staat het doorzoeken van alle privéchats, berichten en emails op illegale afbeeldingen van minderjarigen en pogingen tot het contactleggen met minderjarigen toe. Hierdoor kunnen de dienstenaanbieders van Facebook Messenger, Gmail en anderen elk bericht scannen op verdachte tekst en afbeeldingen. Dit gebeurt in een volledig geautomatiseerd proces, mede door gebruik te maken van foutgevoelige 'kunstmatige intelligentie'. Als een algoritme een bericht als verdacht beschouwt, worden de inhoud en metagegevens ervan (meestal automatisch en zonder menselijke verificatie) bekendgemaakt aan een particuliere organisatie in de Verenigde Staten en van daaruit aan nationale politieautoriteiten over de hele wereld. De gerapporteerde gebruikers worden niet op de hoogte gebracht.
-
-#### 6 juli 2021: Het Europees Parlement [keurt de wetgeving goed die chatcontrole mogelijk maakt](https://www.patrick-breyer.de/en/chatcontrol-european-parliament-approves-mass-surveillance-of-private-communications/)
-
-Het Europees Parlement stemde voor de ePrivacy-afwijking, die vrijwillige chatcontrole mogelijk maakt voor berichten- en emaildienstenaanbieders. Als gevolg hiervan voeren sommige dienstverleners in de Verenigde Staten, zoals Gmail en Outlook.com, al dergelijke geautomatiseerde bericht- en chatcontroles uit.
-
-#### 9 mei 2022: Europarlementariër Patrick Breyer heeft een rechtszaak [aangespannen](https://www.patrick-breyer.de/en/destruction-of-digital-privacy-of-correspondence-lawsuit-filed-against-chat-control/) tegen het bedrijf Meta uit de Verenigde Staten
-
-Volgens de [jurisprudentie van het Europese Hof van Justitie](http://curia.europa.eu/juris/document/document.jsf?text=&docid=232084&pageIndex=0&doclang=EN&mode=req&dir=&occ=first&part=1) **schendt de permanente en uitgebreide geautomatiseerde analyse van privécommunicatie fundamentele rechten en is deze verboden** (punt 177). Voormalig rechter van het Europese Hof van Justitie prof. dr. Ninon Colneric heeft de plannen uitgebreid geanalyseerd en **concludeert in een [juridische beoordeling](https://www.patrick-breyer.de/wp-content/uploads/2021/03/Legal-Opinion-Screening-for-child-pornography-2021-03-04.pdf) dat de EU-wetgevingsplannen over chatcontrole niet in overeenstemming zijn met de jurisprudentie van het Europese Hof van Justitie en in strijd zijn met de grondrechten van alle EU-burgers** op eerbiediging van de persoonlijke levenssfeer, gegevensbescherming en vrijheid van meningsuiting. Op basis hiervan werd de rechtszaak aangespannen.
-
-#### 11 mei 2022: De Commissie presenteert een voorstel om chatcontrole verplicht te stellen voor dienstverleners
-
-Op 11 mei 2022 kwam **de Europese Commissie met een tweede wetsvoorstel, waarin de Europese Commissie alle aanbieders van chat-, berichten- en emaildiensten verplicht om deze massasurveillancetechnologie in te zetten zonder enige verdenking. [Uit een representatieve enquête die in maart 2021 is gehouden, blijkt echter duidelijk dat een meerderheid van de Europeanen tegen het gebruik van chatcontrole is.](https://www.patrick-breyer.de/en/poll-72-of-citizens-oppose-eu-plans-to-search-all-private-messages-for-allegedly-illegal-material-and-report-to-the-police/)** ([Gedetailleerde enquêteresultaten vind je hier.](https://nextcloud.pp-eu.eu/index.php/s/5bkdRGyxnAciNBz))
-
-- **8 mei 2022:** Bijeenkomst Raadswerkgroep Rechtshandhaving
-- **22 juni 2022:** Bijeenkomst Raadswerkgroep Rechtshandhaving
-- **5 juli 2022:** Bijeenkomst Raadswerkgroep Rechtshandhaving
-- **20 juli 2022:** [Bijeenkomst](https://www.patrick-breyer.de/en/chat-control-internal-documents-show-how-divided-the-eu-member-states-are/) Raadswerkgroep Rechtshandhaving ([Compromistekst](https://data.consilium.europa.eu/doc/document/ST-12354-2022-INIT/en/pdf))
-- **6 september 2022:** Bijeenkomst Raadswerkgroep Rechtshandhaving
-- **22 september 2022:** Bijeenkomst Raadswerkgroep Rechtshandhaving (Compromistekst:  [Art. 1-2](https://www.patrick-breyer.de/wp-content/uploads/2022/11/Chatcontrol-Presidency-compromise-of-26.10.22-csam-articles-1-2.pdf), [25-39](https://www.statewatch.org/media/3541/eu-council-csa-regulation-compromise-13514-22.pdf))
-- **28 september 2022:** Bijeenkomst Raadwerkplaats over opsporingstechnologieën
-- **5 oktober 2022:** Bijeenkomst Raadswerkgroep Rechtshandhaving
-- **10 oktober 2022: [Het voorstel werd gepresenteerd en besproken in de leidende LIBE-commissie van het Europees Parlement](https://www.patrick-breyer.de/en/eu-chat-control-negotiations-kick-off-commissioner-johansson-defends-controversial-surveillance-law-before-libe-committee/) ([video-opname](https://multimedia.europarl.europa.eu/de/webstreaming/libe-committee-meeting_20221010-1500-COMMITTEE-LIBE))**
-- **19 oktober 2022:** Bijeenkomst Raadswerkgroep Rechtshandhaving
-- **3 november 2022:** [Raadsvergadering](https://www.patrick-breyer.de/wp-content/uploads/2023/02/221103-Council-meeting-notes-EN.pdf)
-- **24 november 2022:** [Raadswerkplaats](https://www.patrick-breyer.de/wp-content/uploads/2023/02/221124-Council-meeting-notes-EN.pdf) over leeftijdsverificatie en encryptie
-- **30 november 2022:** [Eerste LIBE schaduwbijeenkomst](https://www.patrick-breyer.de/en/first-parliamentary-amendments-on-eu-child-sexual-abuse-regulation-some-poison-teeth-are-pulled-but-indiscriminate-chat-control-still-looming/)
-- **14 december 2022:** LIBE schaduwbijeenkomst (hoorzittingen)
-- **10 januari 2023:** LIBE schaduwbijeenkomst (hoorzittingen)
-- **19 en 20 januari 2023: [Bijeenkomst van de Raadswerkgroep wetshandhaving politie](https://www.patrick-breyer.de/wp-content/uploads/2023/02/230119-Council-meeting-notes-EN.pdf)**
-- **24 januari 2023:** LIBE schaduwbijeenkomst (hoorzittingen)
-- **7 februari 2023:** LIBE schaduwbijeenkomst (techbedrijven)
-- **27 februari 2023:** LIBE schaduwbijeenkomst
-- **7 maart 2023:** LIBE schaduwbijeenkomst
-- **16 maart 2023:** [Raadsgroep rechtshandhaving](https://www.patrick-breyer.de/wp-content/uploads/2023/04/230316_WGLE_en.pdf) ([Besproken ontwerpcompromis](https://www.patrick-breyer.de/wp-content/uploads/2023/03/2023-03-09_LEWP_CSAR_Presidency-compromise.pdf))
-- **21 maart 2023:** LIBE schaduwbijeenkomst
-- **29 maart 2023:** [Bijeenkomst](https://www.patrick-breyer.de/wp-content/uploads/2023/06/230329_CSAM-COU-en-GB.pdf) raadswerkgroep rechtshandhaving
-- **Eind maart:** Vervangende effectbeoordeling wordt ingediend
-- **13 april 2023:** [Verklaring van de Duitse federale regering](https://www.patrick-breyer.de/wp-content/uploads/2023/04/230405_Stellungnahme-BReg-EN.pdf)
-- **13 april 2023:** [Presentatie van effectenbeoordeling in LIBE](https://www.patrick-breyer.de/en/eu-parliaments-research-service-confirms-chat-control-violates-fundamental-rights/)
-- **19 april 2023:** [LIBE-rapporteur dient conceptrapport in](https://www.patrick-breyer.de/en/chat-control-lead-negotiator-proposes-to-add-voluntary-detection-orders-and-metadata-scanning/)
-- **25 april 2023**: Groep rechtshandhaving van de Raad ([Besproken ontwerpcompromis](https://data.consilium.europa.eu/doc/document/ST-7842-2023-INIT/en/pdf))
-- **26 april 2023:** [Presentatie conceptrapport in LIBE](https://www.patrick-breyer.de/en/patrick-breyer-on-chat-control-to-ensure-the-safety-of-children-online-we-need-a-new-approach/)
-- **8-19 mei 2023:** Deadline voor het indienen van amendementen
-- **25-26 mei 2023:** Raadswerkgroep rechtshandhaving ([Besproken ontwerpcompromis](https://www.patrick-breyer.de/wp-content/uploads/2023/05/Presidency-council-compromise-17.05.2023-CSAM-chatcontrol.pdf))
-- **31 mei 2023:** [Bijeenkomst Coreper I](https://netzpolitik.org/2023/staendige-vertreter-eu-staaten-wollen-chatkontrolle-trotz-warnung-ihrer-juristen/#2023-05-31_St%C3%A4V_AStV_CSA-VO)
-- ~~**31 mei 2023:** Schaduwbijeenkomst~~
-- **7 juni 2023:** Schaduwbijeenkomst
-- **8 & 9 juni 2023:** Raad Justitie en Binnenlandse Zaken neemt gedeeltelijke algemene benadering aan ([Besproken ontwerpcompromis](https://www.patrick-breyer.de/wp-content/uploads/2023/06/2023.06.08-Council-Swedish-presidency-compromise.pdf))
-- **28 juni 2023:** Schaduwbijeenkomst
-- **5 juli 2023:** Schaduwbijeenkomst
-- **12 juli 2023:** Schaduwbijeenkomst
-- **19 juli 2023:** Schaduwbijeenkomst
-- **September 2023:** Stemming in de LIBE-commissie
-- **28 september 2023: [Beoogde goedkeuring van de algemene oriëntatie door de EU-Raad](https://data.consilium.europa.eu/doc/document/ST-11106-2023-INIT/en/pdf)**
-- **Oktober 2023:** Stemming in de plenaire vergadering
-- **December 2023:** Trialoogovereenkomst
+{{< timeline >}}
 
 ### De onderhandelaars
 
