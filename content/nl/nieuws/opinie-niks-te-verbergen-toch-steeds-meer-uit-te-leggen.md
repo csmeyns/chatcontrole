@@ -1,0 +1,1 @@
+> "Het probleem is dat overheden en instanties een ENORME set feiten over ons op kunnen lepelen. Mochten wij beschuldigd worden van iets heeft men een vrijwel onbeperkte bak om in te grabbelen met dingen die wij dan allemaal moeten weerleggen.
