@@ -1,5 +1,5 @@
 ---
-title : "Informatie over chatcontrole"
+title : "Achtergrondinformatie over chatcontrole"
 description: "Artikelen en andere bronnen met meer informatie over chatcontrole"
 lead: ""
 date: 2020-10-06T08:48:23+00:00
