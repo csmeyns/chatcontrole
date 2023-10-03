@@ -16,9 +16,9 @@ toc: true
 
 Onderzoeksjournalist [Andre Meister laat zien](https://chaos.social/@andre_meister/111165087812210333) dat de banden tussen de Europese Commissie en bedrijven die lobbyen voor het chatcontrole wetsvoorstel nu wel héél nauw zijn.
 
-De LIBE-commissie van het Europees parlement schreef een brief aan Eurocommisaris Ylva Johansson met vragen over diens chatcontrole voorstel. En wie beantwoordt deze brief? Commissaris Johansson? Één van diens assistenten? Nee. (Tenminste, vooralsnog niet. Mochten er ontwikkelingen zijn dan zullen we deze weergeven.)
+Recent stuurde Juan Fernando López Aguilar, voorzitter van de LIBE-Commissie van de EU, een [brief aan Eurocommisaris Ylva Johansson](https://chatcontrole.nl/nieuws/libe-voorzitter-lopez-aguilar-eist-opheldering-johansson-over-lobbyen/) om opheldering te eisen over lobbyen en mogelijk 'onheuse invloed' op het chatcontrole-voorstel. 
 
-In plaats daarvan komt het antwoord van één van de commerciële bedrijven die, zoals [recent werd onthuld](https://chatcontrole.nl/nieuws/chatcontrole-lobby-netwerk/), al tijden grote sommen geld uitgeeft om voor chatcontrole in de EU te lobbyen.
+En wie beantwoordt deze brief? Commissaris Johansson? Eén van diens assistenten? Nee. (Tenminste, vooralsnog niet.) In plaats daarvan komt het antwoord van één van de commerciële bedrijven die, zoals [recent werd onthuld](https://chatcontrole.nl/nieuws/chatcontrole-lobby-netwerk/), al tijden grote sommen geld uitgeeft om voor chatcontrole in de EU te lobbyen.
 
 Thorn's hoofd van beleid, Emily Slifer, zegt LIBE-commissie voorzitter Juan Fernando López Aguilar aan te schrijven "naar aanleiding van uw brief naar Commissaris Johansson". 
 
