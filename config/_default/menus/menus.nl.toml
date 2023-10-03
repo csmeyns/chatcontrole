@@ -21,7 +21,12 @@
   weight = 10
 
 [[main]]
-  name = "Informatie"
+  name = "Tijdlijn"
+  url = "/tijdlijn/"
+  weight = 15
+
+[[main]]
+  name = "Achtergrond"
   url = "/docs/"
   weight = 20
 
