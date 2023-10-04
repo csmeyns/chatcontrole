@@ -29,6 +29,8 @@
 			{{ if ne .Params.toc false -}}
 			<nav class="d-xl-none" aria-label="Quaternary navigation">
 				{{ partial "sidebar/docs-toc.html" . }}
+			<br>
+				{{ partial "footer/fedi-share.html" . }}
 			</nav>
 			{{ end -}}
 			{{ .Content }}
@@ -49,5 +51,6 @@
 			{{ end -}}
 			-->
 		</main>
+		
 	</div>
 {{ end }}
