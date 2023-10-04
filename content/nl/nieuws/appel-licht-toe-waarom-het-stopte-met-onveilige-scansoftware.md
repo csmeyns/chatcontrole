@@ -25,5 +25,5 @@ Newman citeert Erik Neuenschwander, Apples hoofd van gebruikerprivacy en kinderv
 Het voorbeeld van Apple laat dus zien hoe het op grote schaal scannen van privéberichten de digitale veiligheid alleen maar bedreigt.
 
 Lees het hele artikel: 
-- 🇳🇱 [Het besluit van Apple om met diens fotoscanprogramma te stoppen](https://www-wired-com.translate.goog/story/apple-csam-scanning-heat-initiative-letter/?_x_tr_sl=en&_x_tr_tl=nl) (automatische vertaling naar het Nederlands)
+- 🇳🇱 [Het besluit van Apple om met diens fotoscanprogramma te stoppen](https://www-wired-com.translate.goog/story/apple-csam-scanning-heat-initiative-letter/?_x_tr_sl=en&_x_tr_tl=nl) (automatische vertaling naar het Nederlands, kan fouten bevatten)
 - 🇺🇸 [Apple’s Decision to Kill its Photo-Scanning Tool](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/) (origineel, in het Engels)

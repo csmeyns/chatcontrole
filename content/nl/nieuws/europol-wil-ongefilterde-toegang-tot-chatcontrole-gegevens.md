@@ -26,5 +26,5 @@ Europol onbelemmerde toegang tot de gegevens die door chatcontrole zouden worden
 Notulen voor de bijeenkomst zijn ook bij het artikel op _Netzpolitik_ gepubliceerd.
 
 Lees het hele artikel: 
-- 🇳🇱 [Europol wil chatcontrolegegevens onbegrensd verzamelen](https://netzpolitik-org.translate.goog/2023/interne-dokumente-europol-will-chatkontrolle-daten-unbegrenzt-sammeln/?_x_tr_sl=de&_x_tr_tl=nl) (automatische vertaling naar het Nederlands)
+- 🇳🇱 [Europol wil chatcontrolegegevens onbegrensd verzamelen](https://netzpolitik-org.translate.goog/2023/interne-dokumente-europol-will-chatkontrolle-daten-unbegrenzt-sammeln/?_x_tr_sl=de&_x_tr_tl=nl) (automatische vertaling naar het Nederlands, kan fouten bevatten)
 - 🇩🇪 [Europol will Chatkontrolle-Daten unbegrenzt sammeln](https://netzpolitik.org/2023/interne-dokumente-europol-will-chatkontrolle-daten-unbegrenzt-sammeln/) (origineel, in het Duits)

@@ -20,6 +20,11 @@ Volgens documenten die de journalisten onder ogen kregen, schreef Eurocommisaris
 
 > "We hebben vele momenten gedeeld op de weg naar dit voorstel (...) Nu vraag ik naar jullie om er voor te zorgen dat deze lancering een successvolle lancering wordt."
 
-Lees het hele artikel, gepubliceerd op *Balkan Insight*, [in het Nederlands](https://balkaninsight-com.translate.goog/2023/09/25/who-benefits-inside-the-eus-fight-over-scanning-for-child-sex-content/?_x_tr_sl=en&_x_tr_tl=nl) (automatische vertaling), of hier in het [Engelse origineel](https://balkaninsight.com/2023/09/25/who-benefits-inside-the-eus-fight-over-scanning-for-child-sex-content/).
+Lees het hele artikel, gepubliceerd op *Balkan Insight*:
+- 🇳🇱 [Wie heeft er baat bij?](https://balkaninsight-com.translate.goog/2023/09/25/who-benefits-inside-the-eus-fight-over-scanning-for-child-sex-content/?_x_tr_sl=en&_x_tr_tl=nl) (automatische vertaling naar het Nederlands, kan fouten bevatten)
+- 🇬🇧 [Who benefits?](https://balkaninsight.com/2023/09/25/who-benefits-inside-the-eus-fight-over-scanning-for-child-sex-content/) (Engelse origineel)
 
-*Update 26 september 2023:* Een Nederlandse versie is nu ook gepubliceerd in *De Groene Amsterdammer*, onder de titel ['Wie heeft er baat bij? Niet de kinderen'](https://www.groene.nl/artikel/wie-heeft-hier-baat-bij-niet-de-kinderen).
+
+
+
+*Update 26 september 2023:* Een originele Nederlandse versie is nu ook gepubliceerd in *De Groene Amsterdammer*, onder de titel ['Wie heeft er baat bij? Niet de kinderen'](https://www.groene.nl/artikel/wie-heeft-hier-baat-bij-niet-de-kinderen).
