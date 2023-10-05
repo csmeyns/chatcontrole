@@ -1,5 +1,5 @@
 ---
-title: "Politiek: Rondetafelgesprek Tweede Kamer over scannen aan cliëntzijde (11 oktober)"
+title: "Politiek: Rondetafelgesprek Tweede Kamer over scannen aan cliëntzijde (11 oktober, met livestream)"
 description: "..."
 date: 2023-10-05T08:49:31+00:00
 lastmod: 2023-10-05T08:49:31+00:00
@@ -37,6 +37,8 @@ Vanuit de politiek zullen aanwezig zijn:
 - C.A.M. van der Plas (BBB)
 - W.R. van Haga (Groep Van Haga)
 - E.J. Slootweg (CDA) 
+
+Het rondetafelgesprek is online bij te wonen middels een _livestream_. [Bekijk of beluister de _livestream_](https://www.tweedekamer.nl/debat_en_vergadering/uitgelicht/rondetafelgesprek-over-technieken-om-online-kindermisbruik-te).
 
 Bekijk de officiële aankondiging:
 - 🇳🇱 [Rondetafelgesprek: _Client Side Scanning_ (CSS)](https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2023A06027)
