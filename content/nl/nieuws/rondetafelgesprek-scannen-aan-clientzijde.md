@@ -14,9 +14,9 @@ weight: 630
 toc: true
 ---
 
-Op 11 oktober van 18:30 tot 20:05 uur vindt binnen de Tweede Kamer met de vaste commissie voor Digitale Zaken een rondetafelgesprek plaats over scannen aan cliëntzijde (op de agenda aangeduid met de Engelse benaming _client side scanning_). 
+Op 11 oktober vindt van 18:30 tot 20:05 uur binnen de Tweede Kamer met de vaste commissie voor Digitale Zaken een rondetafelgesprek plaats over scannen aan cliëntzijde (op de agenda aangeduid met de Engelse benaming _client side scanning_). 
 
-Scannen aan cliëntzijde is de techniek die vaak genoemd wordt in verband met het chatcontrole-voorstel van de EU: de Europese overheid wil online dienstenverleners er toe kunnen verplicht alle digitale berichten van iedereen in de Europese Unie te scannen. Eén manier waarop dat gedaan zou kunnen worden is door ieder bericht al op het apparaat van de gebruiker zelf door te lichten---scannen aan de cliëntzijde dus. 
+Scannen aan cliëntzijde is een techniek die vaak genoemd wordt in verband met het chatcontrole-voorstel van de EU: de Europese overheid wil online dienstenverleners er toe kunnen verplicht alle digitale berichten van iedereen in de Europese Unie die over hun dienst verstuurd worden te scannen. Eén manier waarop dat gedaan zou kunnen worden is door ieder bericht al op het apparaat van de gebruiker zelf door te lichten---scannen aan de cliëntzijde dus. 
 
 Sprekers betreffen:
 
