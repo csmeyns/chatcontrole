@@ -1,8 +1,8 @@
 ---
 title: "Privacy-experts en meldpunt kindermisbruik: chatcontrole is onveilig"
 description: "..."
-date: 2023-10-12T08:49:31+00:00
-lastmod: 2023-10-12T08:49:31+00:00
+date: 2023-10-12T08:39:31+00:00
+lastmod: 2023-10-12T08:39:31+00:00
 draft: false
 images: []
 contributors: []
