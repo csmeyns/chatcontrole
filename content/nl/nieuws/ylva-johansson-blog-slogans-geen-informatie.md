@@ -21,7 +21,7 @@ De afgelopen maanden is Eurocommissaris Ylva Johansson flink bekritiseerd, onder
 
 Vandaag publiceerde Johansson een blog-post, ogenschijnlijk ter verdediging van diens integriteit en professionele reputatie. Maar wie daadwerkelijk argumenten had verwacht, zal teleurgesteld thuiskomen.
 
-Johansson open het blog met zich erover te beklagen online om het chatcontrole-voorstel bekritiseerd te zijn. In plaats van op inhoudelijke kritiek in te gaan, reageert Johansson echter door critici van het chatcontrole-voorstel weg te zetten als vrouwenhaters, seksisten en racisten. (De kritiek "... omvat regelrechte racistische tweets, vrouwenhatend- en seksistisch misbruik".)
+Johansson opent het blog met zich erover te beklagen online om het chatcontrole-voorstel bekritiseerd te zijn. In plaats van op inhoudelijke kritiek in te gaan, reageert Johansson echter door critici van het chatcontrole-voorstel weg te zetten als vrouwenhaters, seksisten en racisten. (De kritiek "... omvat regelrechte racistische tweets, vrouwenhatend- en seksistisch misbruik".)
 
 Vervolgens uit Johansson onvrede over het feit dat onderzoeksjournalisten aandacht hebben besteed aan hoe het chatcontrole-voorstel tot stand is gekomen---in het bijzonder,  dat zij onthullingen deden over de mogelijk onheuse beïnvloeding die lobbygroepen en grote tech-bedrijven op het voorstel hebben uitgeoefend. Blijkbaar hadden onderzoeksjournalisten volgens Johansson beter niet hun werk moeten doen, maar de andere kant op moeten kijken? [_sarcasme_]
 
