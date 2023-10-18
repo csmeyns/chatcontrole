@@ -52,3 +52,4 @@ Online [meld Kamerlid Dekker](https://mastodon.social/@Hind_Dekker/1112567448992
 
 > "Helaas blijkt uit het debat dat het kabinet niet echt naar ons wil luisteren en voor de derde keer een aangenomen motie naast zich neerlegt."
 
+Het is een belediging van de democratie in Nederland dat het uitvoeren van door een meerderheid in de Kamer aangenomen moties überhaupt tot een vraagstuk verworden is.
