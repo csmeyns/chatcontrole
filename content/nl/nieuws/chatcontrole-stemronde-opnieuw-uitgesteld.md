@@ -15,6 +15,7 @@ toc: true
 ---
 
 De Raad Justitie en Binnenlandse Zaken zal op donderdag 19 oktober niet stemmen om het chatcontrole-voorstel aan te nemen, zo [rapporteert Europarlementariër Patrick Breyer](https://www.patrick-breyer.de/en/chat-control-vote-postponed-huge-success-in-defense-of-digital-privacy-of-correspondence/).
+
 Dit is inmiddels al de tweede keer dat de stemronde is uitgesteld. Aanvankelijk stond deze stemronde namelijk gepland voor eind september  2023. Breyer meld dat het uitstel komt:
 
 > "... omdat er momenteel niet de vereiste meerderheid is voor de zeer controversiële en ongekende regelgeving. Onder meer Duitsland, Oostenrijk, Polen en Estland positioneren zich duidelijk tegen het huidige ontwerp, maar ook Frankrijk heeft vragen." 
