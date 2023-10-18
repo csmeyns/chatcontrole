@@ -1,6 +1,6 @@
 ---
 title: "Kamer neemt motie aan dat aangenomen moties moeten worden uitgevoerd en veilige communicatie moet worden beschermd"
-description: "..."
+description: "Motie van Kamerlid Dekker-Abdulaziz (D66) om aangenomen moties uit te voeren en versleutelde communicatie te beschermen, is aangenomen."
 date: 2023-10-18T08:49:31+00:00
 lastmod: 2023-10-18T08:49:31+00:00
 draft: false
