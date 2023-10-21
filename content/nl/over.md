@@ -7,7 +7,7 @@ draft: false
 images: []
 ---
 
-Chatcontrole.nl is opgezet door Chris Onrust, die zich grote zorgen maakt over het plan om vrijwel alle digitale berichten van mensen in de EU te gaan scannen.
+Chatcontrole.nl is opgezet door Dr. Chris Onrust, die zich grote zorgen maakt over het plan om vrijwel alle digitale berichten van mensen in de EU te gaan scannen.
 
 Waarom verzet tegen chatcontrole? Als redelijk geïnformeerde tech-nerd begrijp ik:
 
