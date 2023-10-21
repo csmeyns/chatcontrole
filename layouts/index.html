@@ -11,6 +11,22 @@
     </div>
   </div>
 </section>
+<section>
+  <h2 id="bekijk-het-zelf">Laatste nieuws</h2>
+  {{ range ( where .Site.RegularPages "Section" "nieuws" | first 3 ) }}
+  <div class="card">
+    <div class="card-body">
+      <h2 class="h3"><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}</a></h2>
+      <p>{{ .Params.lead | safeHTML }}</p>
+      {{ partial "main/blog-meta.html" . -}}
+    </div>
+  </div>
+{{end}}
+</section>
+<div class="col-lg-9 col-xl-8 text-center">
+  <a class="btn btn-primary btn-lg px-4 mb-2" href="/nieuws" role="button">{{ i18n "more-news" }}</a>
+  <!-- <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "/package.json" }}{{ $data.version }}</a></p> -->
+</div>
 {{ end }}
 
 {{ define "phone" }}
