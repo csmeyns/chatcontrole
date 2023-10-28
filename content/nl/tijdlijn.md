@@ -7,7 +7,7 @@ Publicatie: Patrick Breyer's website<br>
 Datum: doorlopend geüpdate<br>
 Hier volgt de vertaling in het Nederlands."
 date: 2023-07-05T08:49:31+00:00
-lastmod: 2023-10-03T08:49:31+00:00
+lastmod: 2023-10-28T08:49:31+00:00
 draft: false
 images: []
 menu:
