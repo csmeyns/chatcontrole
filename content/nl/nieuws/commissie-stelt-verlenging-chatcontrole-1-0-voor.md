@@ -1,5 +1,5 @@
 ---
-title: "Europese Commissie stelt verlenging van chatcontrole 1.0 voor"
+title: "Europese Commissie vraagt verlenging van chatcontrole 1.0 aan"
 description: "De Europese Commissie heeft een voorstel ingediend om de nu al actieve 'chatcontrole 1.0' wetgeving, welke in 2024 op zou houden van kracht te zijn, te verlengen."
 date: 2023-11-30T08:39:31+00:00
 lastmod: 2023-11-30T08:39:31+00:00
@@ -20,7 +20,9 @@ In haar toelichting waarom het nodig zou zijn om langer af te wijken van haar ei
 
 > "De inter-institutionele onderhandelingen over de voorgestelde langetermijnverordening [dat wil zeggen, chatcontrole 2.0] zijn nog niet afgerond en het is onzeker of deze zullen worden afgerond voordat de langetermijnverordening in werking zal treden en van toepassing zal zijn voordat de interimverordening afloopt. Daarom is het noodzakelijk om via dit voorstel een beperkte tijdverlenging van de interim-verordening in te voeren, om de voortzetting van bovengenoemde vrijwillige activiteiten mogelijk te maken gedurende een periode die voldoende lang is om de interinstitutionele onderhandelingen over de langetermijnverordening te kunnen afronden."
 
-Met andere woorden, de Europese Commissie wil niet dat er tussen nu en het door hen beoogde invoeren van chatcontrole 2.0 ook maar één dag zou zijn waarop bepaalde online-dienstenaanbieders niet 'vrijwillig' de online communicatie van mensen in de EU in de gaten zouden mogen houden en hierover aan de Europese autoriteiten en politie rapporteren. 
+Met andere woorden, de Europese Commissie wil niet dat er tussen nu en het door hen beoogde invoeren van chatcontrole 2.0 ook maar één dag zou zijn waarop bepaalde online-dienstenaanbieders niet 'vrijwillig' de online communicatie van mensen in de EU in de gaten zouden mogen houden en hierover aan de Europese autoriteiten en politie rapporteren.
+
+Europarlementariër Patrick Breyer noemt het verzoek om verlenging een "[bekennen van falen](https://www.patrick-breyer.de/en/extension-of-voluntary-chat-control-is-an-admission-of-eu-commissions-failure/)" door de Europese Commissie, in het bijzonder van Eurocommissaris Ylva Johansson.
 
 Lees de volledige voorsteltekst:
 - 🇬🇧 [Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2021/1232 of the European Parliament and of the Council on a temporary derogation from certain provisions of Directive 2002/58/EC](https://ec.europa.eu/transparency/documents-register/api/files/COM(2023)777_0/090166e505252440?rendition=false) (PDF in het Engels)
