@@ -1,49 +1,32 @@
-[[docs]]
-  name = "Prologue"
-  weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
-
-[[docs]]
-  name = "Help"
-  weight = 60
-  identifier = "help"
-  url = "/docs/help/"
-
 [[main]]
   name = "Nieuws"
   url = "/nieuws/"
   weight = 1
 
 [[main]]
-  name = "Stemwijzer"
-  url = "/stemwijzer2023/"
-  weight = 5
-
-[[main]]
-  name = "Doe mee"
-  url = "/doen/"
+  name = "Tijdlijn"
+  url = "/tijdlijn/"
   weight = 10
 
 [[main]]
-  name = "Tijdlijn"
-  url = "/tijdlijn/"
-  weight = 15
-
-[[main]]
-  name = "Achtergrond"
+  name = "Bronnen"
   url = "/docs/"
   weight = 20
 
 [[main]]
+  name = "Doe mee"
+  url = "/doen/"
+  weight = 30
+
+[[main]]
   name = "Over chatcontrole.nl"
   url = "/over/"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "RSS"
   url = "https://chatcontrole.nl/nieuws/index.xml"
-  weight = 40
+  weight = 50
 
 # [[social]]
 #  name = "GitHub"
