@@ -10,4 +10,4 @@ Het scannen van al onze digitale communicatie zou een grove inbreuk vormen op de
 
 Deze website geeft informatie over wat chatcontrole is, waarom het schadelijk is, en wat er tegen gedaan kan worden.
 
-Heb je goede ideeën of wil je helpen? Heel graag! Stuur een bericht of een mailtje op `chatcontrole` at `proton.me`.
+Heb je goede ideeën of wil je helpen? Heel graag! Stuur een bericht of een mailtje naar `chatcontrole` at `proton.me`.
