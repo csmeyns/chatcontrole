@@ -1,6 +1,6 @@
 ---
 title: "Tijdlijn van de onderhandelingen"
-description: "Tijdlijn met de relevante data  over het chatcontrole wetsvoorstel van de EU, door Patrick Breyer."
+description: "Tijdlijn met de relevante data over het chatcontrole wetsvoorstel van de EU, door Patrick Breyer."
 lead: "Oorspronkelijke publicatie: <a href='https://www.patrick-breyer.de/en/posts/chat-control/'>Chat Control: The EU’s CSEM scanner proposal</a><br> 
 Auteur: Patrick Breyer<br> 
 Publicatie: Patrick Breyer's website<br> 
