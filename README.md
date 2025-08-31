@@ -1,12 +1,12 @@
 # Chatcontrole
 
-### De EU wil al je privéberichten scannen
+### Je privéberichten gaan gescand worden
 
 De Europese Commissie heeft een nieuw wetsvoorstel ingediend. Dit wetsvoorstel staat bekend als ‘chatcontrole’.
 
-De voorgestelde wet is erg slecht. Met deze wet zouden overheden namelijk álle digitale berichten van iedereen in de EU kunnen lezen—ook die van jou in Nederland dus.
+De Europese Commissie zegt dat een nieuwe wet nodig is om bepaalde vormen van criminaliteit tegen te gaan, maar dat klopt niet. Bovendien is de voorgestelde wet erg slecht. De wet zou regeringen namelijk in staat stellen om álle digitale berichten van iedereen in de EU te scannen—ook die van ons in Nederland.
 
-**Het scannen van al je digitale communicatie zou een grove inbreuk vormen op jouw fundamentele rechten.**
+Het scannen van al onze digitale communicatie zou een grove inbreuk vormen op de fundamentele rechten van Nederlandse inwoners.
 
 Deze website geeft informatie over wat chatcontrole is, waarom het schadelijk is, en wat er tegen gedaan kan worden.
 

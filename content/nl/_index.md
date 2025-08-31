@@ -1,12 +1,12 @@
 ---
-title : "Chatcontrole: De EU wil al je privéberichten scannen"
-description: "Chatcontrole is een gevaarlijk wetsvoorstel van de Europese Commissie om alle digitale communicatie te scannen. De wet zou een grove inbreuk op fundamentele rechten maken."
+title : "Chatcontrole: Je privéberichten gaan gescand worden"
+description: "Chatcontrole is een gevaarlijk wetsvoorstel van de Europese Commissie om alle digitale communicatie te scannen. De wet zou een grove inbreuk op fundamentele rechten zou maken."
 lead: |
     De Europese Commissie heeft een nieuw wetsvoorstel ingediend. Dit wetsvoorstel staat bekend als ‘chatcontrole’.<br><br>
 
-    De voorgestelde wet is erg slecht. Met deze wet zouden overheden namelijk álle digitale berichten van iedereen in de EU kunnen lezen—ook die van jou in Nederland dus.<br><br> 
+    De Europese Commissie zegt dat een nieuwe wet nodig is om bepaalde vormen van criminaliteit tegen te gaan, maar dat klopt niet. Bovendien is de voorgestelde wet erg slecht. Met deze wet zouden regeringen namelijk álle digitale berichten van iedereen in de EU kunnen lezen—ook die van ons allemaal in Nederland.<br><br> 
 
-    <b>Het scannen van al je digitale communicatie zou een grove inbreuk vormen op jouw fundamentele rechten.</b>
+    <b>Het scannen van al je digitale communicatie zou een grove inbreuk vormen op je fundamentele rechten.</b>
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false
