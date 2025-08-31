@@ -1,5 +1,5 @@
 ---
-title: "Emails aan Europarlementariërs"
+title: "Emails aan Europarlementariërs via Fight Chat Control website"
 description: "Website Fight Chat Control zet mensen aan Europarlementariërs te mailen over chatcontrole."
 date: 2025-08-19T08:49:31+00:00
 lastmod: 2025-08-19T08:49:31+00:00
